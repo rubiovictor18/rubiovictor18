@@ -32,8 +32,6 @@ Soy estudiante de la Licenciatura en Matemáticas en la Universidad Central de V
 
 ### 🚀 Proyectos Destacados
 
-*(Nota: Sustituye los enlaces por las URLs de tus repositorios)*
-
 #### [🔗 Modelo de Visión por Computadora (MNIST y Símbolos Matemáticos)](https://github.com/rubiovictor18/Proyecto-reconocimiento-digitos-simbolos-mnist/tree/main)
 **Python | Redes Neuronales | Procesamiento de Imágenes**
 - Arquitectura de red neuronal entrenada con el dataset MNIST ampliado para la clasificación multiclasé de caracteres numéricos y operadores aritméticos.
