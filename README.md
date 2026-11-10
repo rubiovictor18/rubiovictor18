@@ -42,7 +42,7 @@ Soy estudiante de la Licenciatura en Matemáticas en la Universidad Central de V
 **Python | Scikit-Learn | Pandas**
 - Entrenamiento y evaluación de algoritmos de clasificación y regresión orientados al diagnóstico médico y control de calidad industrial.
 
-#### [🔗 Análisis de Datos Sector Telecomunicaciones](enlace-a-tu-repo-telco)
+#### [🔗 Análisis de Datos Sector Telecomunicaciones](https://github.com/rubiovictor18/analisis-datos-telecomunicaciones)
 **Python | Análisis Exploratorio de Datos (EDA)**
 - Extracción de insights y modelado de datos para optimizar la toma de decisiones empresariales.
 
