@@ -38,7 +38,7 @@ Soy estudiante de la Licenciatura en Matemáticas en la Universidad Central de V
 **Python | Redes Neuronales | Procesamiento de Imágenes**
 - Arquitectura de red neuronal entrenada con el dataset MNIST ampliado para la clasificación multiclasé de caracteres numéricos y operadores aritméticos.
 
-#### [🔗 Clasificación de Tumores de Mama y Calidad de Leche]([enlace-a-tu-repo-clasificacion](https://github.com/rubiovictor18/clasificacion-leche-regresion-lineal/tree/main)
+#### [🔗 Clasificación de Tumores de Mama y Calidad de Leche](https://github.com/rubiovictor18/clasificacion-leche-regresion-lineal/tree/main)
 **Python | Scikit-Learn | Pandas**
 - Entrenamiento y evaluación de algoritmos de clasificación y regresión orientados al diagnóstico médico y control de calidad industrial.
 
