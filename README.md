@@ -14,7 +14,7 @@ Soy estudiante de la Licenciatura en Matemáticas en la Universidad Central de V
   - **Visión por Computadora (MNIST):** Procesamiento de imágenes y redes neuronales para la predicción exacta de dígitos (0 al 9) y símbolos matemáticos (suma, resta, multiplicación y división).
   - **Análisis de Telecomunicaciones:** Procesamiento, limpieza y análisis exploratorio de datos para una empresa del sector telecomunicaciones.
 - 🌱 Profundizando mis conocimientos en **Ciencia de Datos** y algoritmos de **Análisis Numérico**.
-- 📫 Puedes contactarme en: **[rubiovictor18@gmail.com]**
+- 📫 Puedes contactarme en: **rubiovictor18@gmail.com**
 
 ---
 
