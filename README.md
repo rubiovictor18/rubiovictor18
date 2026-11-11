@@ -47,5 +47,5 @@ Soy estudiante de la Licenciatura en Matemáticas en la Universidad Central de V
 ---
 
 ### 🤝 Conectemos
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubiovictor18)
 
